@@ -1,0 +1,24 @@
+source 'https://rubygems.org'
+
+gem 'rails', '3.2.13'
+
+gem 'jquery-rails'
+gem 'unicorn'
+gem 'oj'
+gem 'multi_json'
+gem 'warden'
+gem 'sqlite3'
+gem 'ruby-aaws'
+
+group :assets do
+	gem 'sass-rails',   '~> 3.2.3'
+	gem 'therubyracer', :platforms => :ruby
+	gem 'uglifier', '>= 1.0.3'
+end
+
+group :development do
+	gem 'capistrano'
+	gem 'rvm-capistrano'
+	gem 'capistrano-unicorn'
+	gem 'debugger'
+end

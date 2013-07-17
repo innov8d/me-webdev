@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36" />
+		</HTTPHeaders>
+		<RequestId>7ef8f3a3-79c3-4a4f-bcc3-1c5083b22d0c</RequestId>
+		<Arguments>
+			<Argument Name="Condition" Value="New" />
+			<Argument Name="Service" Value="AWSECommerceService" />
+			<Argument Name="Keywords" Value="ruby on rails" />
+			<Argument Name="Timestamp" Value="2013-07-11T02:32:34.000Z" />
+			<Argument Name="Operation" Value="ItemSearch" />
+			<Argument Name="AssociateTag" Value="inno0a5-20" />
+			<Argument Name="Version" Value="2011-08-01" />
+			<Argument Name="SearchIndex" Value="Books" />
+			<Argument Name="Signature" Value="PEb7eiNB3HC6rwO9T/goVBdOrqlr//vqJgHkPvZVx40=" />
+			<Argument Name="AWSAccessKeyId" Value="AKIAJQVVOXJOHK2NPGUQ" />
+			<Argument Name="ResponseGroup" Value="Images,ItemAttributes,EditorialReview,Reviews,Similarities" />
+		</Arguments>
+		<RequestProcessingTime>0.2419290000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>ruby on rails</Keywords>
+				<ResponseGroup>Images</ResponseGroup>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>EditorialReview</ResponseGroup>
+				<ResponseGroup>Reviews</ResponseGroup>
+				<ResponseGroup>Similarities</ResponseGroup>
+				<SearchIndex>Books</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>498</TotalResults>
+		<TotalPages>50</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.com/gp/redirect.html?camp=2025&amp;creative=386001&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Druby%2Bon%2Brails%26url%3Dsearch-alias%253Dstripbooks&amp;linkCode=xm2&amp;tag=inno0a5-20&amp;SubscriptionId=AKIAJQVVOXJOHK2NPGUQ</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>0321832051</ASIN>
+			<DetailPageURL>http://www.amazon.com/Ruby-Rails-Tutorial-Addison-Wesley-Professional/dp/0321832051%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321832051</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Ruby-Rails-Tutorial-Addison-Wesley-Professional/dp/tech-data/0321832051%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321832051</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0321832051%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321832051</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0321832051%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321832051</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0321832051%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321832051</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/0321832051%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321832051</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/0321832051%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321832051</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/0321832051%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321832051</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">57</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">122</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">382</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">23</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">84</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">122</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/51bmSckmqeL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">382</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>Michael Hartl</Author>
+				<Binding>Paperback</Binding>
+				<EAN>9780321832054</EAN>
+				<EANList>
+					<EANListElement>9780321832054</EANListElement>
+				</EANList>
+				<Edition>2</Edition>
+				<ISBN>0321832051</ISBN>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">909</Height>
+					<Length Units="hundredths-inches">701</Length>
+					<Weight Units="hundredths-pounds">203</Weight>
+					<Width Units="hundredths-inches">114</Width>
+				</ItemDimensions>
+				<Label>Addison-Wesley Professional</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>4499</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$44.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Addison-Wesley Professional</Manufacturer>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>600</NumberOfPages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">118</Height>
+					<Length Units="hundredths-inches">906</Length>
+					<Weight Units="hundredths-pounds">200</Weight>
+					<Width Units="hundredths-inches">693</Width>
+				</PackageDimensions>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<PublicationDate>2012-08-06</PublicationDate>
+				<Publisher>Addison-Wesley Professional</Publisher>
+				<SKU>ACAMP_book_usedlikenew_0321832051</SKU>
+				<Studio>Addison-Wesley Professional</Studio>
+				<Title>Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				<TradeInValue>
+					<Amount>1854</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$18.54</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=0321832051&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A33Z&amp;v=2&amp;sig=4YqimfDIQMMHoj0OY0LuyZGbzrWZfDx90wqbbzQsPEo%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>&lt;P style="MARGIN: 0px"&gt;“&lt;I&gt;Ruby on Rails™ Tutorial&lt;/I&gt; by Michael Hartl has become a must-read for developers learning how to build Rails apps.”&lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt;—&lt;I&gt;Peter Cooper, Editor of&lt;/I&gt; Ruby Inside&lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt;Using Rails, developers can build web applications of exceptional elegance and power. Although its remarkable capabilities have made Ruby on Rails one of the world’s most popular web development frameworks, it can be challenging to learn and use. &lt;B&gt; &lt;I&gt; &lt;B&gt;Ruby on Rails™ Tutorial, Second Edition,&lt;/B&gt; &lt;/I&gt; &lt;/B&gt; is the solution. Best-selling author and leading Rails developer Michael Hartl teaches Rails by guiding you through the development of your own complete sample application using the latest techniques in Rails web development. The updates to this edition include all-new site design using Twitter’s Bootstrap; coverage of the new asset pipeline, including Sprockets and Sass; behavior-driven development (BDD) with Capybara and RSpec; better automated testing with Guard and Spork; roll your own authentication with has_secure_password; and an introduction to Gherkin and Cucumber.&lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt;You’ll find integrated tutorials not only for Rails, but also for the essential Ruby, HTML, CSS, JavaScript, and SQL skills you’ll need when developing web applications. Hartl explains how each new technique solves a real-world problem, and he demonstrates this with bite-sized code that’s simple enough to understand, yet novel enough to be useful. Whatever your previous web development experience, this book will guide you to true Rails mastery.&lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt;This book will help you&lt;/P&gt;  &lt;UL&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Install and set up your Rails development environment&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Go beyond generated code to truly understand how to build Rails applications from scratch&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Learn test-driven development (TDD) with RSpec&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Effectively use the Model-View-Controller (MVC) pattern&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Structure applications using the REST architecture&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Build static pages and transform them into dynamic ones&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Master the Ruby programming skills all Rails developers need&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Define high-quality site layouts and data models&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Implement registration and authentication systems, including validation and secure passwords&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Update, display, and delete users&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Add social features and microblogging, including an introduction to Ajax&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Record version changes with Git and share code at GitHub&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Simplify application deployment with Heroku&lt;/DIV&gt; &lt;/LI&gt; &lt;/UL&gt;</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>0596516177</ASIN>
+					<Title>The Ruby Programming Language</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321584104</ASIN>
+					<Title>Eloquent Ruby (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321721330</ASIN>
+					<Title>Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356085</ASIN>
+					<Title>Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1933988657</ASIN>
+					<Title>The Well-Grounded Rubyist</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>0596516177</ASIN>
+			<DetailPageURL>http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0596516177</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/tech-data/0596516177%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596516177</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0596516177%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596516177</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0596516177%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596516177</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0596516177%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596516177</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/0596516177%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596516177</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/0596516177%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596516177</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/0596516177%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596516177</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/51wlknppToL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">57</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/51wlknppToL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">122</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/51wlknppToL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">381</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/51wlknppToL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">23</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/51wlknppToL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/51wlknppToL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/51wlknppToL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">84</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/51wlknppToL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">122</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/51wlknppToL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">381</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>David Flanagan</Author>
+				<Author>Yukihiro Matsumoto</Author>
+				<Binding>Paperback</Binding>
+				<EAN>9780596516178</EAN>
+				<EANList>
+					<EANListElement>9780596516178</EANListElement>
+				</EANList>
+				<Edition>First Edition</Edition>
+				<Feature>ISBN13: 9780596516178</Feature>
+				<Feature>Notes: 100% Satisfaction Guarantee. Tracking provided on most orders. Buy with Confidence! Millions of books sold!</Feature>
+				<ISBN>0596516177</ISBN>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">917</Height>
+					<Length Units="hundredths-inches">701</Length>
+					<Weight Units="hundredths-pounds">157</Weight>
+					<Width Units="hundredths-inches">91</Width>
+				</ItemDimensions>
+				<Label>O'Reilly Media</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>3999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$39.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>O'Reilly Media</Manufacturer>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>448</NumberOfPages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">120</Height>
+					<Length Units="hundredths-inches">910</Length>
+					<Weight Units="hundredths-pounds">120</Weight>
+					<Width Units="hundredths-inches">700</Width>
+				</PackageDimensions>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<PublicationDate>2008-02-01</PublicationDate>
+				<Publisher>O'Reilly Media</Publisher>
+				<SKU>241407</SKU>
+				<Studio>O'Reilly Media</Studio>
+				<Title>The Ruby Programming Language</Title>
+				<TradeInValue>
+					<Amount>965</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$9.65</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=0596516177&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=q9hG0Nxhl5R94gnYlVFp3%2B0NKcXja2nD5Un%2BGmW8zik%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>&lt;DIV&gt;&lt;p&gt;&lt;I&gt;The Ruby Programming Language&lt;/I&gt; is &lt;I&gt;the&lt;/I&gt; authoritative guide to Ruby and provides comprehensive coverage of versions 1.8 and 1.9 of the language. It was written (and illustrated!) by an all-star team:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;David Flanagan, bestselling author of programming language "bibles" (including &lt;I&gt;JavaScript: The Definitive Guide&lt;/I&gt; and &lt;I&gt;Java in a Nutshell&lt;/I&gt;) and committer to the Ruby Subversion repository.&lt;/li&gt;&lt;br/&gt;&lt;br/&gt;&lt;li&gt;Yukihiro "Matz" Matsumoto, creator, designer and lead developer of Ruby and author of &lt;I&gt;Ruby in a Nutshell&lt;/I&gt;, which has been expanded and revised to become this book.&lt;/li&gt;&lt;br/&gt;&lt;br/&gt;&lt;li&gt;why the lucky stiff, artist and Ruby programmer extraordinaire.&lt;/li&gt; &lt;/ul&gt; This book begins with a quick-start tutorial to the language, and then explains the language in detail from the bottom up: from lexical and syntactic structure to datatypes to expressions and statements and on through methods, blocks, lambdas, closures, classes and modules.&lt;br&gt;&lt;br&gt; The book also includes a long and thorough introduction to the rich API of the Ruby platform, demonstrating -- with heavily-commented example code -- Ruby's facilities for text processing, numeric manipulation, collections, input/output, networking, and concurrency. An entire chapter is devoted to Ruby's metaprogramming capabilities.&lt;br&gt;&lt;br&gt;&lt;I&gt;The Ruby Programming Language&lt;/I&gt; documents the Ruby language definitively but without the formality of a language specification. It is written for experienced programmers who are new to Ruby, and for current Ruby programmers who want to challenge their understanding and increase their mastery of the language.&lt;br&gt;&lt;br&gt;&lt;/div&gt;</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>0321832051</ASIN>
+					<Title>Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321584104</ASIN>
+					<Title>Eloquent Ruby (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>144930933X</ASIN>
+					<Title>Learning Rails 3</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356085</ASIN>
+					<Title>Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0596523696</ASIN>
+					<Title>Ruby Cookbook (Cookbooks (O'Reilly))</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>1934356549</ASIN>
+			<DetailPageURL>http://www.amazon.com/Agile-Development-Rails-Pragmatic-Programmers/dp/1934356549%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934356549</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Agile-Development-Rails-Pragmatic-Programmers/dp/tech-data/1934356549%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356549</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D1934356549%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356549</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D1934356549%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356549</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D1934356549%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356549</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/1934356549%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356549</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/1934356549%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356549</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/1934356549%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356549</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">61</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">130</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">406</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">24</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">61</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">61</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">89</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">130</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/516rmIeWntL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">406</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/51lGLPJvrfL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">24</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/51lGLPJvrfL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">61</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/51lGLPJvrfL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">61</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/51lGLPJvrfL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">89</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/51lGLPJvrfL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">130</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/51lGLPJvrfL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">406</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>Sam Ruby</Author>
+				<Author>Dave Thomas</Author>
+				<Author>David Heinemeier Hansson</Author>
+				<Binding>Paperback</Binding>
+				<EAN>9781934356548</EAN>
+				<EANList>
+					<EANListElement>9781934356548</EANListElement>
+				</EANList>
+				<Edition>Fourth Edition</Edition>
+				<ISBN>1934356549</ISBN>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">902</Height>
+					<Length Units="hundredths-inches">80</Length>
+					<Weight Units="hundredths-pounds">139</Weight>
+					<Width Units="hundredths-inches">752</Width>
+				</ItemDimensions>
+				<Label>Pragmatic Bookshelf</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>4395</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$43.95</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Pragmatic Bookshelf</Manufacturer>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>488</NumberOfPages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">100</Height>
+					<Length Units="hundredths-inches">890</Length>
+					<Weight Units="hundredths-pounds">145</Weight>
+					<Width Units="hundredths-inches">740</Width>
+				</PackageDimensions>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<PublicationDate>2011-03-31</PublicationDate>
+				<Publisher>Pragmatic Bookshelf</Publisher>
+				<SKU>331322</SKU>
+				<Studio>Pragmatic Bookshelf</Studio>
+				<Title>Agile Web Development with Rails 3.2 (Pragmatic Programmers)</Title>
+				<TradeInValue>
+					<Amount>1220</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$12.20</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=1934356549&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=rfGUu%2FVvIMtBOIBkwF%2BxLG1hX%2B0J%2FfQYQ5gwaisjDBU%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>&lt;DIV&gt;&lt;p&gt;Rails just keeps on changing. Rails 3 and Ruby 1.9 bring hundreds of improvements, including new APIs and substantial performance enhancements. The fourth edition of this award-winning classic has been reorganized and refocused so it's more useful than ever before for developers new to Ruby and Rails.&lt;br&gt;&lt;br&gt;&lt;I&gt;Rails 3 is a major release&lt;/I&gt;--the changes aren't just incremental, but structural. So we decided to follow suit. This book isn't just a mild reworking of the previous edition to make it run with the new Rails. Instead, &lt;I&gt;it's a complete refactoring.&lt;/I&gt;&lt;br&gt;&lt;br&gt; You'll still find the Depot example at the front, but you'll also find testing knitted right in. Gone are the long reference chapters--that's what the web does best. Instead you'll find more targeted information on all the aspects of Rails that you'll need to be a successful Web developer.&lt;br&gt;&lt;br&gt; Now Updated for Rails 3.2&lt;br&gt;&lt;br&gt; Rails 3.1 and Rails 3.2 introduce many user-facing changes, and this release has been updated to match all the latest changes and new best practices in Rails 3.1 and Rails 3.2. This includes full support for Ruby 1.9.2 hash syntax; incorporation of the new Sprockets 2.0 Asset Pipeline, including SCSS and CoffeeScript; jQuery now being the default; reversible migrations; JSON response support; Rack::Cache, and much more.&lt;br&gt;&lt;br&gt; Ruby on Rails helps you produce high-quality, beautiful-looking web applications quickly. You concentrate on creating the application, and Rails takes care of the details.&lt;br&gt;&lt;br&gt; Tens of thousands of developers have used this award-winning book to learn Rails. It's a broad, far-reaching tutorial and reference that's recommended by the Rails core team. If you're new to Rails, you'll get step-by-step guidance. If you're an experienced developer, this book will give you the comprehensive, insider information you need.&lt;br&gt;&lt;br&gt; Rails has evolved over the years, and this book has evolved along with it. We still start with a step-by-step walkthrough of building a real application, and in-depth chapters look at the built-in Rails features. This edition now gives new Ruby and Rails users more information on the Ruby language and takes more time to explain key concepts throughout.  Best practices on how to apply Rails continue to change, and this edition keeps up. Examples use cookie backed sessions, HTTP authentication, and Active Record-based forms, and the book focuses throughout on the right way to use Rails. Additionally, this edition now reflects Ruby 1.9, a new release of Ruby with substantial functional and performance improvements.&lt;/p&gt;&lt;/div&gt;</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>1934356085</ASIN>
+					<Title>Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356778</ASIN>
+					<Title>Rails Recipes: Rails 3 Edition</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0596516177</ASIN>
+					<Title>The Ruby Programming Language</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321601661</ASIN>
+					<Title>The Rails 3 Way (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356735</ASIN>
+					<Title>Crafting Rails Applications: Expert Practices for Everyday Rails Development (Pragmatic Programmers)</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>B00AE6OJ3E</ASIN>
+			<DetailPageURL>http://www.amazon.com/Ruby-Rails-3-2-Step-ebook/dp/B00AE6OJ3E%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00AE6OJ3E</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Ruby-Rails-3-2-Step-ebook/dp/tech-data/B00AE6OJ3E%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00AE6OJ3E</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00AE6OJ3E%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00AE6OJ3E</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00AE6OJ3E%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00AE6OJ3E</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00AE6OJ3E%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00AE6OJ3E</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/B00AE6OJ3E%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00AE6OJ3E</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/B00AE6OJ3E%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00AE6OJ3E</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/B00AE6OJ3E%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00AE6OJ3E</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">50</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">107</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">333</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">20</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">50</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">50</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">73</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">107</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/41PRBcJxUKL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">333</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>Stefan Wintermeyer</Author>
+				<Binding>Kindle Edition</Binding>
+				<Edition>1.0</Edition>
+				<Format>Kindle eBook</Format>
+				<IsAdultProduct>0</IsAdultProduct>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>535</NumberOfPages>
+				<ProductGroup>eBooks</ProductGroup>
+				<ProductTypeName>ABIS_EBOOKS</ProductTypeName>
+				<PublicationDate>2012-11-26</PublicationDate>
+				<ReleaseDate>2012-11-26</ReleaseDate>
+				<Title>Ruby on Rails 3.2 - Step by Step</Title>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=B00AE6OJ3E&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=tT65VI%2F3OzMWh90aTe0cdqaq%2FE8rQZ2pSpqIjMLB2uo%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>A step by step guide to learn Ruby on Rails 3.2. It includes a basic tutorial for Ruby 1.9.3.</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>B008RN1SJO</ASIN>
+					<Title>Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>B00ANKJVMU</ASIN>
+					<Title>CoffeeScript Programming with jQuery, Rails, and Node.js</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>B0096BYG7C</ASIN>
+					<Title>Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>B004MMEJ36</ASIN>
+					<Title>Eloquent Ruby (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>B00DCWOI5G</ASIN>
+					<Title>Developing Backbone.js Applications</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>0321743121</ASIN>
+			<DetailPageURL>http://www.amazon.com/Ruby-Rails-Tutorial-Addison-Wesley-Professional/dp/0321743121%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321743121</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Ruby-Rails-Tutorial-Addison-Wesley-Professional/dp/tech-data/0321743121%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321743121</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0321743121%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321743121</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0321743121%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321743121</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0321743121%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321743121</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/0321743121%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321743121</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/0321743121%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321743121</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/0321743121%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321743121</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">57</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">121</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">377</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">23</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">83</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">121</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/51TEzGZ%2BggL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">377</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>Michael Hartl</Author>
+				<Binding>Paperback</Binding>
+				<EAN>9780321743121</EAN>
+				<EANList>
+					<EANListElement>9780321743121</EANListElement>
+				</EANList>
+				<Edition>1</Edition>
+				<ISBN>0321743121</ISBN>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">890</Height>
+					<Length Units="hundredths-inches">114</Length>
+					<Weight Units="hundredths-pounds">195</Weight>
+					<Width Units="hundredths-inches">701</Width>
+				</ItemDimensions>
+				<Label>Addison-Wesley Professional</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>3999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$39.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Addison-Wesley Professional</Manufacturer>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>576</NumberOfPages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">130</Height>
+					<Length Units="hundredths-inches">900</Length>
+					<Weight Units="hundredths-pounds">195</Weight>
+					<Width Units="hundredths-inches">700</Width>
+				</PackageDimensions>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<PublicationDate>2010-12-16</PublicationDate>
+				<Publisher>Addison-Wesley Professional</Publisher>
+				<SKU>ACOUK_book_new_0321743121</SKU>
+				<Studio>Addison-Wesley Professional</Studio>
+				<Title>Ruby on Rails 3 Tutorial: Learn Rails by Example (Addison-Wesley Professional Ruby Series)</Title>
+				<TradeInValue>
+					<Amount>1586</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$15.86</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=0321743121&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=EBXOmYmM39p3QyiUwDIOU80eRqk6JYb82o5OlAvFJiU%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>“&lt;i&gt;Ruby on Rails™ 3 Tutorial: Learn Rails by Example&lt;/i&gt; by Michael Hartl has become a must read for developers learning how to build Rails apps.” &lt;p style="margin: 0px;"&gt;—Peter Cooper, Editor of &lt;i&gt;Ruby Inside&lt;/i&gt; &lt;/p&gt; &lt;p style="margin: 0px;"&gt; &lt;/p&gt; &lt;p style="margin: 0px;"&gt;Using Rails 3, developers can build web applications of exceptional elegance and power. Although its remarkable capabilities have made Ruby on Rails one of the world’s most popular web development frameworks, it can be challenging to learn and use. &lt;i&gt;Ruby on Rails™ 3 Tutorial&lt;/i&gt; is the solution. Leading Rails developer Michael Hartl teaches Rails 3 by guiding you through the development of your own complete sample application using the latest techniques in Rails web development.&lt;/p&gt; &lt;p style="margin: 0px;"&gt; &lt;/p&gt; &lt;p style="margin: 0px;"&gt;Drawing on his experience building RailsSpace, Insoshi, and other sophisticated Rails applications, Hartl illuminates all facets of design and implementation—including powerful new techniques that simplify and accelerate development. &lt;/p&gt; &lt;p style="margin: 0px;"&gt; &lt;/p&gt; &lt;p style="margin: 0px;"&gt;You’ll find integrated tutorials not only for Rails, but also for the essential Ruby, HTML, CSS, JavaScript, and SQL skills you’ll need when developing web applications. Hartl explains how each new technique solves a real-world problem, and he demonstrates this with bite-sized code that’s simple enough to understand, yet novel enough to be useful. Whatever your previous web development experience, this book will guide you to true Rails mastery.&lt;/p&gt; &lt;p style="margin: 0px;"&gt; &lt;/p&gt; &lt;p style="margin: 0px;"&gt;This book will help you&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Install and set up your Rails development environment&lt;/li&gt; &lt;li&gt;Go beyond generated code to truly understand how to build Rails applications from scratch &lt;/li&gt; &lt;li&gt;Learn Test Driven Development (TDD) with RSpec&lt;/li&gt; &lt;li&gt;Effectively use the Model-View-Controller (MVC) pattern &lt;/li&gt; &lt;li&gt;Structure applications using the REST architecture&lt;/li&gt; &lt;li&gt;Build static pages and transform them into dynamic ones&lt;/li&gt; &lt;li&gt;Master the Ruby programming skills all Rails developers need&lt;/li&gt; &lt;li&gt;Define high-quality site layouts and data models&lt;/li&gt; &lt;li&gt;Implement registration and authentication systems, including validation and secure passwords&lt;/li&gt; &lt;li&gt;Update, display, and delete users&lt;/li&gt; &lt;li&gt;Add social features and microblogging, including an introduction to Ajax&lt;/li&gt; &lt;li&gt;Record version changes with Git and share code at GitHub&lt;/li&gt; &lt;li&gt;Simplify application deployment with Heroku&lt;/li&gt; &lt;/ul&gt;</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>0596516177</ASIN>
+					<Title>The Ruby Programming Language</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321584104</ASIN>
+					<Title>Eloquent Ruby (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321601661</ASIN>
+					<Title>The Rails 3 Way (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356085</ASIN>
+					<Title>Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356778</ASIN>
+					<Title>Rails Recipes: Rails 3 Edition</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>1934356778</ASIN>
+			<DetailPageURL>http://www.amazon.com/Rails-Recipes-3-Edition/dp/1934356778%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934356778</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Rails-Recipes-3-Edition/dp/tech-data/1934356778%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356778</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D1934356778%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356778</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D1934356778%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356778</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D1934356778%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356778</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/1934356778%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356778</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/1934356778%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356778</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/1934356778%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D1934356778</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">63</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">133</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">417</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">25</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">63</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">63</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">92</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">133</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/41Y4XPDo4zL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">417</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>Chad Fowler</Author>
+				<Binding>Paperback</Binding>
+				<EAN>9781934356777</EAN>
+				<EANList>
+					<EANListElement>9781934356777</EANListElement>
+				</EANList>
+				<Edition>Second Edition</Edition>
+				<ISBN>1934356778</ISBN>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">886</Height>
+					<Length Units="hundredths-inches">87</Length>
+					<Weight Units="hundredths-pounds">127</Weight>
+					<Width Units="hundredths-inches">736</Width>
+				</ItemDimensions>
+				<Label>Pragmatic Bookshelf</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>3500</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$35.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Pragmatic Bookshelf</Manufacturer>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>296</NumberOfPages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">100</Height>
+					<Length Units="hundredths-inches">890</Length>
+					<Weight Units="hundredths-pounds">125</Weight>
+					<Width Units="hundredths-inches">750</Width>
+				</PackageDimensions>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<PublicationDate>2012-04-10</PublicationDate>
+				<Publisher>Pragmatic Bookshelf</Publisher>
+				<SKU>ACOMMP2_book_usedverygood_1934356778</SKU>
+				<Studio>Pragmatic Bookshelf</Studio>
+				<Title>Rails Recipes: Rails 3 Edition</Title>
+				<TradeInValue>
+					<Amount>834</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$8.34</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=1934356778&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=vcRzBQ4E9LB1vZDRPyuts9JPbP6%2Bo9QDA5QeBbwpjnk%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>&lt;DIV&gt;&lt;p&gt;Thousands of developers have used the first edition of &lt;i&gt;Rails Recipes&lt;/i&gt; to solve problems known to stop even experienced programmers in their tracks. Now, five years later with Rails 3.1 released, it's time for a new edition of this tested collection of solutions, completely revised by Rails master Chad Fowler.&lt;br&gt;&lt;br&gt; Written for novice to intermediate Rails developers, &lt;i&gt;Rails Recipes: Rails 3 Edition&lt;/i&gt; is packed with solutions to 70 of the most vexing problems you're likely to face on the job. From building custom forms and powering pages with JQuery to integrating with legacy databases, it's all here. Each recipe has been updated to reflect the latest features of Rails 3.1 and each lays out a distinctive solution to a problem you may be facing today or could well encounter tomorrow. In addition, you'll find half the book is stocked with new eye-opening solutions to such common problems as how to extend Rails, test and deploy your sites, or add a web service to your actions. And each recipe not only lays out a succinct solution, but explains its rationale and the technologies that make it work.&lt;br&gt;&lt;br&gt; Loaded with the insights of a Rails community leader, members of the Rails core team and other experts, this is the book you'll want to have at your side as you craft your next project.&lt;br&gt;&lt;br&gt; What You Need:&lt;br&gt;&lt;br&gt; Ruby 1.8.7 or above&lt;br&gt;&lt;br&gt; Rails 3.1 or above&lt;/p&gt;&lt;/div&gt;</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>1934356875</ASIN>
+					<Title>The Rails View: Create a Beautiful and Maintainable User Experience</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356735</ASIN>
+					<Title>Crafting Rails Applications: Expert Practices for Everyday Rails Development (Pragmatic Programmers)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356549</ASIN>
+					<Title>Agile Web Development with Rails 3.2 (Pragmatic Programmers)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321601661</ASIN>
+					<Title>The Rails 3 Way (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321584104</ASIN>
+					<Title>Eloquent Ruby (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>B00DGYDXGK</ASIN>
+			<DetailPageURL>http://www.amazon.com/Ruby-In-Day-Basics-ebook/dp/B00DGYDXGK%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00DGYDXGK</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Ruby-In-Day-Basics-ebook/dp/tech-data/B00DGYDXGK%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGYDXGK</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00DGYDXGK%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGYDXGK</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00DGYDXGK%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGYDXGK</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00DGYDXGK%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGYDXGK</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/B00DGYDXGK%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGYDXGK</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/B00DGYDXGK%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGYDXGK</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/B00DGYDXGK%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGYDXGK</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">46</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">98</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">307</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">18</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">46</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">46</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">68</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">98</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/51ewtjFBnpL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">307</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>Richard Wagstaff</Author>
+				<Binding>Kindle Edition</Binding>
+				<Format>Kindle eBook</Format>
+				<IsAdultProduct>0</IsAdultProduct>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>75</NumberOfPages>
+				<ProductGroup>eBooks</ProductGroup>
+				<ProductTypeName>ABIS_EBOOKS</ProductTypeName>
+				<PublicationDate>2013-06-17</PublicationDate>
+				<ReleaseDate>2013-06-17</ReleaseDate>
+				<Title>Ruby In A Day: Learn The Basics, Learn It Quick, Start Coding Fast (In A Day Books)</Title>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=B00DGYDXGK&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=xcmgj7X8wTxZk4Nh1sdqPxa07X6hMNdx7toej10g%2Bjw%3D</IFrameURL>
+				<HasReviews>false</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>Great for all beginners and a good book for those wanting to learn Ruby before they learn Rails!&lt;br /&gt;&lt;br /&gt;From the author of the #1 Bestselling author of Python In A Day&lt;br /&gt;&lt;br /&gt;Are you fed up with reading long, boring, lengthy paragraphs after paragraphs of text and want to get up and running in Ruby as soon as possible?&lt;br /&gt;Well, you're not alone. I for one hate having to read through masses of text for very little benefit. Ruby In A Day strips away the non essentials and instead provides you with the fundamentals from which you can blossom as a Ruby programmer.&lt;br /&gt;&lt;br /&gt;So, what can I expect from the book?&lt;br /&gt;&lt;br /&gt;Learn the Basics&lt;br /&gt;Ruby In A Day provides you with the fundamental building blocks to get you up and running in Ruby in no time.&lt;br /&gt;&lt;br /&gt;Learn it Quick&lt;br /&gt;Written for simplicity so that you can learn Ruby quickly and efficiently.&lt;br /&gt;&lt;br /&gt;Start Coding Fast&lt;br /&gt;You start coding as soon as Ruby is installed on your computer.&lt;br /&gt;&lt;br /&gt;Anything else?&lt;br /&gt;Yes! Lots more. For example, every single script in the book is available to view online or download, providing you with all the code you need at your finger tips!&lt;br /&gt;&lt;br /&gt;Learning to code does not need to be difficult or complicated. This book will supercharge your Ruby learning experience.</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>B00BKXQTJC</ASIN>
+					<Title>Instant Chef Starter</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>B00B7VN8IC</ASIN>
+					<Title>Programming the Web with Ruby</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>B00C787XF8</ASIN>
+					<Title>Millionomics: My Journey to Gaining Financial Freedom</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>B00CCK619K</ASIN>
+					<Title>Two Scoops of Django: Best Practices for Django 1.5</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>B008RN1SJO</ASIN>
+					<Title>Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>0321721330</ASIN>
+			<DetailPageURL>http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321721330</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/tech-data/0321721330%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0321721330%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0321721330%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0321721330%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/0321721330%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/0321721330%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/0321721330%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">57</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">122</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">382</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">23</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">84</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">122</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/513q2AOSeAL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">382</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>Sandi Metz</Author>
+				<Binding>Paperback</Binding>
+				<EAN>9780321721334</EAN>
+				<EANList>
+					<EANListElement>9780321721334</EANListElement>
+				</EANList>
+				<Edition>1</Edition>
+				<ISBN>0321721330</ISBN>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">902</Height>
+					<Length Units="hundredths-inches">681</Length>
+					<Weight Units="hundredths-pounds">110</Weight>
+					<Width Units="hundredths-inches">51</Width>
+				</ItemDimensions>
+				<Label>Addison-Wesley Professional</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>3999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$39.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Addison-Wesley Professional</Manufacturer>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>272</NumberOfPages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">60</Height>
+					<Length Units="hundredths-inches">900</Length>
+					<Weight Units="hundredths-pounds">110</Weight>
+					<Width Units="hundredths-inches">690</Width>
+				</PackageDimensions>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<PublicationDate>2012-09-15</PublicationDate>
+				<Publisher>Addison-Wesley Professional</Publisher>
+				<SKU>ACOM-INT_book_usedverygood_0321721330</SKU>
+				<Studio>Addison-Wesley Professional</Studio>
+				<Title>Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby Series)</Title>
+				<TradeInValue>
+					<Amount>725</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$7.25</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=0321721330&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=jk4mzMhKpB%2Bc6G9Qa1eUpzp27hz33OEjBeDuxXfO1Qg%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>&lt;b&gt;The Complete Guide to Writing More Maintainable, Manageable, Pleasing, and Powerful Ruby Applications&lt;/b&gt; &lt;p style="margin:0px;"&gt; &lt;/p&gt; &lt;p style="margin:0px;"&gt;Ruby’s widely admired ease of use has a downside: Too many Ruby and Rails applications have been created without concern for their long-term maintenance or evolution. The Web is awash in Ruby code that is now virtually impossible to change or extend. This text helps you solve that problem by using powerful real-world object-oriented design techniques, which it thoroughly explains using simple and practical Ruby examples.&lt;/p&gt; &lt;p style="margin:0px;"&gt; &lt;/p&gt; &lt;p style="margin:0px;"&gt;Sandi Metz has distilled a lifetime of conversations and presentations about object-oriented design into a set of Ruby-focused practices for crafting manageable, extensible, and pleasing code. She shows you how to build new applications that can survive success and repair existing applications that have become impossible to change. Each technique is illustrated with extended examples, all downloadable from the companion Web site, poodr.info.&lt;/p&gt; &lt;p style="margin:0px;"&gt; &lt;/p&gt; &lt;p style="margin:0px;"&gt;The first title to focus squarely on object-oriented Ruby application design, &lt;b&gt; &lt;i&gt;Practical Object-Oriented Design in Ruby&lt;/i&gt; &lt;/b&gt; will guide you to superior outcomes, whatever your previous Ruby experience. Novice Ruby programmers will find specific rules to live by; intermediate Ruby programmers will find valuable principles they can flexibly interpret and apply; and advanced Ruby programmers will find a common language they can use to lead development and guide their colleagues.&lt;/p&gt; &lt;p style="margin:0px;"&gt; &lt;/p&gt; &lt;p style="margin:0px;"&gt;This guide will help you&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Understand how object-oriented programming can help you craft Ruby code that is easier to maintain and upgrade&lt;/li&gt; &lt;li&gt;Decide what belongs in a single Ruby class&lt;/li&gt; &lt;li&gt;Avoid entangling objects that should be kept separate&lt;/li&gt; &lt;li&gt;Define flexible interfaces among objects&lt;/li&gt; &lt;li&gt;Reduce programming overhead costs with duck typing&lt;/li&gt; &lt;li&gt;Successfully apply inheritance&lt;/li&gt; &lt;li&gt;Build objects via composition&lt;/li&gt; &lt;li&gt;Design cost-effective tests&lt;/li&gt; &lt;li&gt;Solve common problems associated with poorly designed Ruby code&lt;/li&gt; &lt;/ul&gt; &lt;p style="margin:0px;"&gt; &lt;/p&gt;</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>0321584104</ASIN>
+					<Title>Eloquent Ruby (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321490452</ASIN>
+					<Title>Design Patterns in Ruby</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356476</ASIN>
+					<Title>Metaprogramming Ruby: Program Like the Ruby Pros</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321832051</ASIN>
+					<Title>Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321604814</ASIN>
+					<Title>Rails AntiPatterns: Best Practice Ruby on Rails Refactoring (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>0596515774</ASIN>
+			<DetailPageURL>http://www.amazon.com/Head-First-Rails-Learners-Companion/dp/0596515774%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0596515774</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Head-First-Rails-Learners-Companion/dp/tech-data/0596515774%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596515774</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0596515774%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596515774</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0596515774%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596515774</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0596515774%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596515774</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/0596515774%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596515774</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/0596515774%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596515774</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/0596515774%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0596515774</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">65</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">139</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">434</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">26</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">65</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">65</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">95</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">139</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/51g1LHAgmnL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">434</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>David Griffiths</Author>
+				<Binding>Paperback</Binding>
+				<EAN>9780596515775</EAN>
+				<EANList>
+					<EANListElement>9780596515775</EANListElement>
+				</EANList>
+				<Edition>1</Edition>
+				<Feature>ISBN13: 9780596515775</Feature>
+				<Feature>Condition: New</Feature>
+				<Feature>Notes: BRAND NEW FROM PUBLISHER! 100% Satisfaction Guarantee. Tracking provided on most orders. Buy with Confidence! Millions of books sold!</Feature>
+				<ISBN>0596515774</ISBN>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">925</Height>
+					<Length Units="hundredths-inches">106</Length>
+					<Weight Units="hundredths-pounds">184</Weight>
+					<Width Units="hundredths-inches">819</Width>
+				</ItemDimensions>
+				<Label>O'Reilly Media</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>4999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$49.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>O'Reilly Media</Manufacturer>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>464</NumberOfPages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">100</Height>
+					<Length Units="hundredths-inches">920</Length>
+					<Weight Units="hundredths-pounds">185</Weight>
+					<Width Units="hundredths-inches">800</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<PublicationDate>2009-01-06</PublicationDate>
+				<Publisher>O'Reilly Media</Publisher>
+				<SKU>ACOMMP2_book_usedlikenew_0596515774</SKU>
+				<Studio>O'Reilly Media</Studio>
+				<Title>Head First Rails: A Learner's Companion to Ruby on Rails</Title>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=0596515774&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=%2FIqbnD44VMEIoecoI5%2Bk0MaB2XaWKvdsWzpm8F%2BouJs%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>&lt;DIV&gt;&lt;p&gt;Ready to transport your web applications into the Web 2.0 era? &lt;I&gt;Head First Rails&lt;/I&gt; takes your programming -- and productivity -- to the max. You'll learn everything from the fundamentals of Rails scaffolding to building customized interactive web apps using Rails' rich set of tools and the MVC framework.&lt;br&gt;&lt;br&gt; By the time you're finished, you'll have learned more than just another web framework. You'll master database interactions, integration with Ajax and XML, rich content, and even dynamic graphing of your data -- all in a fraction of the time it takes to build the same apps with Java, PHP, ASP.NET, or Perl. You'll even get comfortable and familiar with Ruby, the language that underpins Rails. But you'll do it in the context of web programming, and not through boring exercises such as "Hello, World!"&lt;br&gt;&lt;br&gt; Your time is way too valuable to waste struggling with new concepts. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, &lt;I&gt;Head First Rails&lt;/I&gt; uses a visually rich format designed to take advantage of the way your brain really works.&lt;/p&gt;&lt;/div&gt;</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>0596006306</ASIN>
+					<Title>Head First PHP &amp; MySQL</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356549</ASIN>
+					<Title>Agile Web Development with Rails 3.2 (Pragmatic Programmers)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0596527748</ASIN>
+					<Title>Head First JavaScript</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1449393217</ASIN>
+					<Title>Head First jQuery (Brain-Friendly Guides)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1449382673</ASIN>
+					<Title>Head First Python</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+		<Item>
+			<ASIN>0321584104</ASIN>
+			<DetailPageURL>http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321584104</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/tech-data/0321584104%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0321584104%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0321584104%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0321584104%26SubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>http://www.amazon.com/gp/pdp/taf/0321584104%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>http://www.amazon.com/review/product/0321584104%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>http://www.amazon.com/gp/offer-listing/0321584104%3FSubscriptionId%3DAKIAJQVVOXJOHK2NPGUQ%26tag%3Dinno0a5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+				</ItemLink>
+			</ItemLinks>
+			<SmallImage>
+				<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL75_.jpg</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">57</Width>
+			</SmallImage>
+			<MediumImage>
+				<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL160_.jpg</URL>
+				<Height Units="pixels">160</Height>
+				<Width Units="pixels">122</Width>
+			</MediumImage>
+			<LargeImage>
+				<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL.jpg</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">381</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">23</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">84</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">122</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">381</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<SwatchImage>
+						<URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL30_.jpg</URL>
+						<Height Units="pixels">30</Height>
+						<Width Units="pixels">23</Width>
+					</SwatchImage>
+					<SmallImage>
+						<URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL75_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</ThumbnailImage>
+					<TinyImage>
+						<URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL110_.jpg</URL>
+						<Height Units="pixels">110</Height>
+						<Width Units="pixels">84</Width>
+					</TinyImage>
+					<MediumImage>
+						<URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL160_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">122</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">381</Width>
+					</LargeImage>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Author>Russ Olsen</Author>
+				<Binding>Paperback</Binding>
+				<EAN>9780321584106</EAN>
+				<EANList>
+					<EANListElement>9780321584106</EANListElement>
+				</EANList>
+				<Edition>1</Edition>
+				<ISBN>0321584104</ISBN>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">886</Height>
+					<Length Units="hundredths-inches">98</Length>
+					<Weight Units="hundredths-pounds">149</Weight>
+					<Width Units="hundredths-inches">681</Width>
+				</ItemDimensions>
+				<Label>Addison-Wesley Professional</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>4499</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$44.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Addison-Wesley Professional</Manufacturer>
+				<NumberOfItems>1</NumberOfItems>
+				<NumberOfPages>448</NumberOfPages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">94</Height>
+					<Length Units="hundredths-inches">906</Length>
+					<Weight Units="hundredths-pounds">154</Weight>
+					<Width Units="hundredths-inches">693</Width>
+				</PackageDimensions>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<PublicationDate>2011-02-21</PublicationDate>
+				<Publisher>Addison-Wesley Professional</Publisher>
+				<SKU>0321584104</SKU>
+				<Studio>Addison-Wesley Professional</Studio>
+				<Title>Eloquent Ruby (Addison-Wesley Professional Ruby Series)</Title>
+				<TradeInValue>
+					<Amount>1669</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$16.69</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<CustomerReviews>
+				<IFrameURL>http://www.amazon.com/reviews/iframe?akid=AKIAJQVVOXJOHK2NPGUQ&amp;alinkCode=xm2&amp;asin=0321584104&amp;atag=inno0a5-20&amp;exp=2013-07-12T02%3A32%3A34Z&amp;v=2&amp;sig=a7LWFhWjQnLqsBF4t7egy0Xvki4skA9P%2BySibHicfwA%3D</IFrameURL>
+				<HasReviews>true</HasReviews>
+			</CustomerReviews>
+			<EditorialReviews>
+				<EditorialReview>
+					<Source>Product Description</Source>
+					<Content>&lt;P style="MARGIN: 0px" align=left text-align="left"&gt;It’s easy to write correct Ruby code, but to gain the fluency needed to write &lt;I&gt;great &lt;/I&gt;Ruby code, you must go beyond syntax and absorb the “Ruby way” of thinking and problem solving. In &lt;B&gt; &lt;I&gt;Eloquent Ruby, &lt;/B&gt; &lt;/I&gt;Russ Olsen helps you write Ruby like true Rubyists do–so you can leverage its immense, surprising power.&lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt;Olsen draws on years of experience internalizing the Ruby culture and teaching Ruby to other programmers. He guides you to the “Ah Ha!” moments when it suddenly becomes clear why Ruby works the way it does, and how you can take advantage of this language’s elegance and expressiveness.&lt;/P&gt; &lt;B&gt; &lt;I&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt;Eloquent Ruby &lt;/B&gt; &lt;/I&gt;starts small, answering tactical questions focused on a single statement, method, test, or bug. You’ll learn how to write code that actually looks like Ruby (not Java or C#); why Ruby has so many control structures; how to use strings, expressions, and symbols; and what dynamic typing is really good for.&lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt;Next, the book addresses bigger questions related to building methods and classes. You’ll discover why Ruby classes contain so many tiny methods, when to use operator overloading, and when to avoid it. Olsen explains how to write Ruby code that writes its own code–and why you’ll want to. He concludes with powerful project-level features and techniques ranging from gems to Domain Specific Languages.&lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px" align=left text-align="left"&gt;A part of the renowned Addison-Wesley Professional Ruby Series, &lt;B&gt; &lt;I&gt;Eloquent Ruby &lt;/B&gt; &lt;/I&gt;will help you “put on your Ruby-colored glasses” and get results that make you a true believer.&lt;/P&gt;</Content>
+					<IsLinkSuppressed>0</IsLinkSuppressed>
+				</EditorialReview>
+			</EditorialReviews>
+			<SimilarProducts>
+				<SimilarProduct>
+					<ASIN>0321721330</ASIN>
+					<Title>Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321490452</ASIN>
+					<Title>Design Patterns in Ruby</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321832051</ASIN>
+					<Title>Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>1934356476</ASIN>
+					<Title>Metaprogramming Ruby: Program Like the Ruby Pros</Title>
+				</SimilarProduct>
+				<SimilarProduct>
+					<ASIN>0321601661</ASIN>
+					<Title>The Rails 3 Way (2nd Edition) (Addison-Wesley Professional Ruby Series)</Title>
+				</SimilarProduct>
+			</SimilarProducts>
+		</Item>
+	</Items>
+</ItemSearchResponse>

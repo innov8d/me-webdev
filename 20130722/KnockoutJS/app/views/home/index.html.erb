@@ -1,0 +1,82 @@
+<h1>Welcome to the Bookstore</h1>
+
+<ul id="categories" class="clearfix">
+	<li><a href="#" data-bind="click: $root.clearCategory">All</a></li>
+	<!-- ko foreach: categories -->
+	<li><a href="#" data-bind="text: name, click: $root.selectCategory"></a></li>
+	<!-- /ko -->
+</ul>
+
+<!-- ko if: $root.isAuthorSelected -->
+<section id="featured-author" class="clearfix">
+	<h1 data-bind="text: $root.selectedAuthor"></h1>
+
+	<img src="http://fpoimg.com/100x150" />
+
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mauris velit, imperdiet sit amet
+		ultricies vel, aliquet at ipsum. Ut laoreet augue ligula, eu sollicitudin lacus semper et. Aenean ullamcorper
+		lacus eu mattis luctus. Nunc risus arcu, viverra vitae commodo eu, tempus eget ante. Nulla pharetra egestas
+		purus, nec volutpat leo gravida semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum
+		sapien purus, nec cursus eros ornare in.</p>
+
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mauris velit, imperdiet sit amet
+		ultricies vel, aliquet at ipsum. Ut laoreet augue ligula, eu sollicitudin lacus semper et. Aenean ullamcorper
+		lacus eu mattis luctus. Nunc risus arcu, viverra vitae commodo eu, tempus eget ante. Nulla pharetra egestas
+		purus, nec volutpat leo gravida semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum
+		sapien purus, nec cursus eros ornare in.</p>
+
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mauris velit, imperdiet sit amet
+		ultricies vel, aliquet at ipsum. Ut laoreet augue ligula, eu sollicitudin lacus semper et. Aenean ullamcorper
+		lacus eu mattis luctus. Nunc risus arcu, viverra vitae commodo eu, tempus eget ante. Nulla pharetra egestas
+		purus, nec volutpat leo gravida semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum
+		sapien purus, nec cursus eros ornare in.</p>
+
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mauris velit, imperdiet sit amet
+		ultricies vel, aliquet at ipsum. Ut laoreet augue ligula, eu sollicitudin lacus semper et. Aenean ullamcorper
+		lacus eu mattis luctus. Nunc risus arcu, viverra vitae commodo eu, tempus eget ante. Nulla pharetra egestas
+		purus, nec volutpat leo gravida semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum
+		sapien purus, nec cursus eros ornare in.</p>
+
+	<p><input type="button" value="Show all Authors" data-bind="click: clearAuthor" /></p>
+</section>
+<!-- /ko -->
+
+<section id="books" class="clearfix">
+	<section id="selected-book" class="clearfix" data-bind="visible: $root.isBookSelected, with: selectedBook">
+		<!-- ko if: $root.isBookSelected -->
+			<img data-bind="attr: { src: large_image, title: title }" /><br />
+			<h1 data-bind="text: title"></h1>
+			by
+			<!-- ko foreach: authors -->
+			 <a href="#" data-bind="click: $root.selectAuthor, text: $data"></a>
+			<!-- /ko -->
+
+			<section class="description" data-bind="html: description"></section>
+
+			<input type="button" value="Add to Cart" />
+		<!-- /ko -->
+	</section>
+
+	<!-- ko foreach: books -->
+	<section class="book">
+		<img data-bind="attr: { src: medium_image, title: title }, click: $root.selectBook" /><br />
+		<a href="#" data-bind="click: $root.selectBook, text: title"></a><br />
+		<!-- ko foreach: authors -->
+			<a href="#" data-bind="click: $root.selectAuthor, text: $data"></a>
+		<!-- /ko -->
+		<br />
+		<input type="button" value="Add to Cart" />
+
+	</section>
+	<!-- /ko -->
+</section>
+
+<script type="text/javascript">
+	(function () {
+		var categories = <%= @categories.to_json.html_safe %>;
+		var books = <%= @books.to_json.html_safe %>;
+		var vm = new BookstoreView(categories, books);
+
+		ko.applyBindings(vm);
+	})();
+</script>
